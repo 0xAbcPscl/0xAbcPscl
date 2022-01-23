@@ -1,0 +1,48 @@
+    {
+      "title": "$CCASH Community Private Sale",
+      "color": 16514816,
+      "description": ":white_check_mark: Register now on: **[CyberTrade](https://cybertrade.games/sale/ccash-token)**\nFirst come first served for $CCASH!",
+      "timestamp": "",
+      "url": "https://cybertrade.games/sale/ccash-token",
+      "author": {
+        "name": "CyberTrade - Official",
+        "url": "https://discord.com/invite/cybertrade",
+        "icon_url": "https://i.ibb.co/KD5rxx0/AVA.webp"
+      },
+      "image": {
+        "url": "https://i.ibb.co/dcg54Y7/CCASHgif.gif"
+      },
+      "thumbnail": {
+        "url": "https://qorpo.world/assets/images/ccash-token/ccash-coin.gif"
+      },
+      "footer": {
+        "text": "QORPO Team",
+        "icon_url": "https://i.ibb.co/6w6scSP/QORPO.png"
+      },
+      "fields": [
+        {
+          "name": ":bookmark_tabs: | Private Round info:",
+          "value": ":white_small_square:Access Type: FCFS\n:white_small_square:Total Supply: 5,000,000 $CCASH\n:white_small_square:Token Distribution: 50% unlock at TGE and 10% monthly unlock during 5 month\n:white_small_square:Accepted currencies: BNB / BUSD / ETH / USDT / USDC",
+          "inline": false
+        },
+        {
+          "name": "Price",
+          "value": ":white_small_square:0.07",
+          "inline": true
+        },
+        {
+          "name": "Min Alloc",
+          "value": ":white_small_square:100 USD",
+          "inline": true
+        },
+        {
+          "name": "Max Alloc",
+          "value": ":white_small_square:23,500 USD",
+          "inline": true
+        },
+        {
+          "name": ":rotating_light: | Additional Information",
+          "value": "Tokens will be automatically transferred to your account after the transaction is confirmed\n\n**Claim your allocation:** [cybertrade.game/sale/ccash-token](https://cybertrade.games/sale/ccash-token)"
+        }
+      ]
+    }
